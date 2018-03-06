@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "bossy": "3.x.x",
-    "glue": "4.x.x",
+    "glue": "5.0.0",
     "hoek": "4.x.x"
   },
   "devDependencies": {
